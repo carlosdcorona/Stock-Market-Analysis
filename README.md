@@ -1,9 +1,4 @@
 # Stock-Market-Analysis
-
-[Ver Dashboard de Análisis de Acciones](https://public.tableau.com/views/FinancialAnalysis-English/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
-
-![Dashboard de Análisis de Acciones](Dashboard%201.png)
-
 ## Project Introduction
 
 This project aimed to extract historical stock data using the Yahoo Finance API for several significant companies listed in the stock market. The data was stored in a real-time NoSQL Firebase database. The project involved extensive exploratory data analysis, statistical analysis, and data visualization, followed by the implementation of forecasting algorithms. To provide meaningful insights, a Tableau Public dashboard was created, featuring interactive visualizations and measures specific to individual companies and overall trends.
@@ -37,3 +32,7 @@ This project aimed to extract historical stock data using the Yahoo Finance API 
 - **Dashboard Development**: Created interactive dashboards using Tableau Public, showcasing expertise in data visualization and storytelling.
 
 This project exhibits a diverse set of skills commonly sought after in roles such as Data Engineer, Data Analyst, and Data Scientist. It showcases the ability to work with real-world data, perform complex analyses, and present meaningful insights through engaging visualizations.
+
+
+![Dashboard de Análisis de Acciones](Dashboard%201.png)
+[Ver Dashboard de Análisis de Acciones](https://public.tableau.com/views/FinancialAnalysis-English/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
