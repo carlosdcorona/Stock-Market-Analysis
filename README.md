@@ -34,5 +34,5 @@ This project aimed to extract historical stock data using the Yahoo Finance API 
 This project exhibits a diverse set of skills commonly sought after in roles such as Data Engineer, Data Analyst, and Data Scientist. It showcases the ability to work with real-world data, perform complex analyses, and present meaningful insights through engaging visualizations.
 
 
-![Dashboard de Análisis de Acciones](Dashboard%201%(1).png)
-[Ver Dashboard de Análisis de Acciones](https://public.tableau.com/views/FinancialAnalysis-English/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
+![Dashboard](Dashboard%201%20(1).png)
+[Dashboard Stock Market](https://public.tableau.com/views/FinancialAnalysis-English/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
